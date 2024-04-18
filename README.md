@@ -1,2 +1,2 @@
 # Stock_Market_Data
-Scraping Stock Market Data using Beautiful Soup
+Scraping Stock Market Table Data using Beautiful Soup
